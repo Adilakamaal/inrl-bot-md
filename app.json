@@ -1,5 +1,5 @@
 {
-  "name": "inrl@4.1.2",
+  "name": "Adil Kamaal",
   "description": "simple multi featured whatsapp bot",
   "keywords": ["whatsapp"],
   "success_url": "/",
@@ -42,7 +42,7 @@
     "STICKER_DATA": {
       "description": "sticker data",
       "required": true,
-      "value": "inrl;inrl"
+      "value": "Adil;Kamaal"
     },
     "PERSONAL_MESSAGE": {
       "description": "personal greetings for first message ",
